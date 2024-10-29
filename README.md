@@ -3,7 +3,7 @@ Official implement of TMM article "Delving into Quaternion Wavelet Transformer f
 
 ![Image text](https://github.com/zy197997312/QWTR-for-FER/blob/main/Frame-min.pdf)
 
-
+Yu Zhou, Jialun Pei, Weixin Si, Jing Qin, Pheng-Ann Heng
 
 
 
