@@ -1,10 +1,11 @@
-# Delving into Quaternion Wavelet Transformer for Facial Expression Recognition in the Wild (IEEE TRANSACTION ON MULTIMEDIA)
-Official implement of TMM article "Delving into Quaternion Wavelet Transformer for Facial Expression Recognition in the Wild"
+# Delving into Quaternion Wavelet Transformer for Facial Expression Recognition in the Wild
+Official implementation of IEEE TRANSACTIONS ON MULTIMEDIA article "Delving into Quaternion Wavelet Transformer for Facial Expression Recognition in the Wild"
+Paper Link: https://ieeexplore.ieee.org/abstract/document/10878301
 
-![Image text](https://github.com/zy197997312/QWTR-for-FER/blob/main/Frame-min.pdf)
+
 
 Yu Zhou, Jialun Pei, Weixin Si, Jing Qin, Pheng-Ann Heng
 
 
 
-We'll upload the code as soon as possible.
+We are trying to upload the full code and pre-trained model as soon as possible.
